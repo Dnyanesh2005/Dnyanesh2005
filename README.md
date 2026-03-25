@@ -11,7 +11,7 @@
 
 ---
 
-# 🌙 **Auto Theme Switch (Dark/Light Mode)**  
+# 🌙 **Auto Theme Switch 
 
 <p align="center">
   <picture>
@@ -43,7 +43,7 @@
 
 ---
 
-# 🔥 GitHub Streak (Auto Theme)
+# 🔥 GitHub Streak 
 <p align="center">
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Dnyanesh2005&theme=radical" media="(prefers-color-scheme: dark)" />
@@ -54,7 +54,7 @@
 
 ---
 
-# 🏆 GitHub Trophies (Auto Theme)
+# 🏆 GitHub Trophies
 <p align="center">
   <picture>
     <source srcset="https://github-profile-trophy.vercel.app/?username=Dnyanesh2005&theme=radical" media="(prefers-color-scheme: dark)" />
