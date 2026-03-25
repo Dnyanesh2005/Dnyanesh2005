@@ -11,7 +11,7 @@
 
 ---
 
-# 🌙 **Auto Theme Switch 
+# 🌙 Auto Theme Switch 
 
 <p align="center">
   <picture>
