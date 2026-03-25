@@ -1,20 +1,4 @@
-<!-- ========================== -->
-<!-- 🌟 CUSTOM GIF BANNER -->
-<!-- ========================== -->
-
-<p align="center">
-  <img src="https://i.imgur.com/7Z6zF1E.gif" width="100%" alt="Banner GIF"/>
-</p>
-
-<!-- ========================== -->
-<!-- 🌟 LOGO / PROFILE ICON -->
-<!-- ========================== -->
-
-<p align="center">
-  <img src="https://i.imgur.com/VhXJx5z.png" width="150px" style="border-radius: 50%;" alt="Profile Logo"/>
-</p>
-
-<h1 align="center">✨ Hi, I'm Dnyaneshwar More ✨</h1>
+<h1 align="center">✨ Hi, I'm Dnyaneshwar Raju More ✨</h1>
 <h3 align="center">💻 BSc CS Student | Prompt Engineer | Vibe Coder 😎</h3>
 
 <!-- ========================== -->
@@ -28,12 +12,7 @@
 ---
 
 # 🌙 **Auto Theme Switch (Dark/Light Mode)**  
-GitHub supports **smart images** using `<picture>`.
 
-### 👉 Example: Your GitHub Stats will change theme automatically  
-(Users on dark theme see dark mode stats, light theme sees light stats)
-
-### 🔥 Stats with Auto Theme  
 <p align="center">
   <picture>
     <source 
@@ -107,6 +86,9 @@ GitHub supports **smart images** using `<picture>`.
   </a>
   <a href="https://github.com/Dnyanesh2005">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:shreemore1977@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
